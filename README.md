@@ -28,8 +28,4 @@ GeminiDiveチャットスペース内の「GoogleAntigravity」プロジェク�
 Gitに慣れていない方でも参加しやすいよう、手順をまとめています。
 まずは `ideas/` フォルダに自分のアイデアを追加してみることから始めてみましょう！
 
-## 👥 Members
 
-- **Owner**: Nakamura Tenryou
-- **Maintainers**: School Agent Inc. Members
-- **Contributors**: GeminiDive Members
